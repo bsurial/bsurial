@@ -12,7 +12,7 @@
 Quick Link
 -->
 
-[Twitter]:https://twitter.com/bsurial
+[Twitter]:https://twitter.com/b_surial
 [Email]:mailto:surial.bernard@gmail.com
 [GoogleScholar]:https://scholar.google.ch/citations?user=kwwaPGUAAAAJ&hl=en
 [Insel]:http://www.infektiologie.insel.ch/
