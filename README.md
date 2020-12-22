@@ -19,7 +19,7 @@ Quick Link
 
 
 
-**I am a infectious disease physician at the [Inselspital University Hospital][Insel] in Bern and am involved in epidemiologic [research projects][GoogleScholar] in the HIV and hepatitis field.**
+**I am an infectious disease physician at the [Inselspital University Hospital][Insel] in Bern and am involved in epidemiologic [research projects][GoogleScholar] in the HIV and hepatitis field.**
 
 I use Github mainly for version control of my R-Studio projects.
 
