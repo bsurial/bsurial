@@ -1,5 +1,5 @@
 <h1 style="font-weight:normal" align="center">
-  &nbsp;Welcome to my github! :wave:&nbsp;
+  &nbsp;Welcome to my github! &nbsp;
 </h1>
 
 <div align="center">
