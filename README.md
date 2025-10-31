@@ -4,7 +4,7 @@
 
 <div align="center">
 
-&nbsp;&nbsp;&nbsp;:envelope: [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:speech_balloon: [Twitter][Twitter]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:book: [GoogleScholar][GoogleScholar]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;:hospital: [Insel Spital][Insel]
+&nbsp;&nbsp;&nbsp;✉️ [Email][Email]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;📚[GoogleScholar][GoogleScholar]&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;🏥 [Insel Spital][Insel]
 
 </div>
 
